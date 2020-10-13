@@ -1,0 +1,72 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About Me', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+# About Section
+
+about: >
+  # Mingalarbar!
+
+  My name is Kon. I am a semi brand designer, illustrator and a junior frontend developer currently working on freelance projects. Wizcat is my brand name and i will be working under that image for my career life. If you want to know a bit about my life, check out my first blog post!  
+
+contact: >
+  # Contact Me
+
+  You can reach me [through my email](mailto:saihti54@gmail.com) or [Message me](http://m.me/Sai.Hti.45) if you have any questions or would like to discuss about work.
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'My Brand Identity', folder: 'proj-1', file: 'projects/My brand identity.html'}
+- {name: 'SHOM', folder: 'proj-2', file: 'projects/SHOM.html'}
+- {name: 'Mbeats', folder: 'proj-3', file: 'projects/mbeats.html'}
+- {name: 'Royal Peanut Oil', folder: 'proj-4', file: 'projects/Royal peanut oil.html'}
+- {name: 'COUGAR', folder: 'proj-5', file: 'projects/Cougar.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'behance', link: '#'}
+- {icon: 'github', link: 'https://github.com/CheezeBurgurz'}
+- {icon: 'facebook', link: 'https://www.facebook.com/Sai.Hti.45'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/saihti/'}
+- {icon: 'envelope', link: 'mailto:saihti54@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
