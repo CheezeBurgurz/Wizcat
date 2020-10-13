@@ -53,7 +53,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'My Brand Identity', folder: 'proj-1', file: 'projects/My brand identity.html'}
+- {name: 'My Brand Identity', folder: 'proj-1', file: 'projects/My Brand Identity.html'}
 - {name: 'SHOM', folder: 'proj-2', file: 'projects/SHOM.html'}
 - {name: 'Mbeats', folder: 'proj-3', file: 'projects/mbeats.html'}
 - {name: 'Royal Peanut Oil', folder: 'proj-4', file: 'projects/Royal peanut oil.html'}
