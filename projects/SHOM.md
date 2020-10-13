@@ -8,8 +8,8 @@ title: 'Lotus blooms'
 {% include image.html url="http://www.gratisography.com" image="projects/proj-2/Main-logo.jpg" %}
 <p style="text-align: center">Main Logo</p>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/brand-guideline.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-2/Brand-Guideline.jpg" %}
 <p style="text-align: center">Brand Guidebook</p>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/business-card.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-2/Business-card.jpg" %}
 <p style="text-align: center">Business Card</p>
