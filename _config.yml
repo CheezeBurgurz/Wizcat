@@ -1,4 +1,4 @@
-baseurl: "https://cheezeburgurz.github.io/Wizcat/"
+baseurl: "wizcat"
 # Build settings
 
 markdown: kramdown
