@@ -7,9 +7,9 @@ title: 'My first design project'
 
   
 
-{% include image.html url="#" image="projects/proj-5/main-logo.jpg" %}  
+{% include image.html url="#" image="projects/proj-5/Main-logo.jpg" %}  
 <p style="text-align: center">Main Logo</p>     
-{% include image.html url="#" image="projects/proj-5/letterhead.jpg" %}
+{% include image.html url="#" image="projects/proj-5/Letterhead.jpg" %}
 <p style="text-align: center">Letterhead</p> 
 {% include image.html url="#" image="projects/proj-5/business-card.jpg" %}
 <p style="text-align: center">Business Card</p> 

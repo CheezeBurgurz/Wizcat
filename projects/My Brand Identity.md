@@ -6,6 +6,6 @@ title: 'Creating my personal logo'
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/design.jpg" %}
 <p style="text-align: center">Sketches</p>
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/mascot.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/Mascot.jpg" %}
 <p style="text-align: center">Mascot Prototype</p>
 Above image is my early mascot design. Whenever i got free time, I am studying character design principles to make my  illustrations more refined. I do plan to buy a cheap drawing tablet when Covid ends. 
